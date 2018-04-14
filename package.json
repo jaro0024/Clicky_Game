@@ -1,0 +1,21 @@
+{
+  "name": "clicky_game",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://jaro0024.github.io/Clicky_Game",
+  "dependencies": {
+    "gh-pages": "^1.1.0",
+    "npm": "^5.8.0",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
