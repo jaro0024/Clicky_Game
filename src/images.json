@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "https://pm1.narvii.com/6320/8051c65efec483766267c0f0895bc155799c43f8_hq.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "http://www.meidentifiquei.com/wp-content/uploads/2016/04/6-curiosidades-Gambit-2.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "https://cdn3.whatculture.com/images/2017/03/0512b752b82b82a7-600x400.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "https://qph.fs.quoracdn.net/main-qimg-bef1727da60d2023b7c990dae7a5a82e-c",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "http://cartoonresearch.com/wp-content/uploads/2018/02/502981-9046485-storm2.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "https://i.pinimg.com/originals/a0/31/98/a03198ad2f1045a9702b7e123f171adf.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "https://vignette.wikia.nocookie.net/deathbattlefanon/images/c/c6/Marvel_Comics_-_Beast_as_he_appears_in_the_1990s_X-Men_Cartoon.png/revision/latest?cb=20160617071019",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "https://vignette.wikia.nocookie.net/spiderman-animated/images/1/1a/78089708.PNG/revision/latest?cb=20160115014521",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "https://i.ebayimg.com/images/g/G-QAAOSw8GtZVFes/s-l300.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "https://am21.akamaized.net/tms/cnt/uploads/2014/06/McGuinness-Nightcrawler1-504x480.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "https://vignette.wikia.nocookie.net/marvelmovies/images/2/28/Sabertooth_%28X-Men%29.jpg/revision/latest?cb=20120715192441",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "https://vignette.wikia.nocookie.net/superheroes/images/6/6f/Jubilee.jpg/revision/latest?cb=20140109124050",
+        "clicked": false
+    }
+]
