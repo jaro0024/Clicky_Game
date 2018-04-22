@@ -1,5 +1,7 @@
 # Clicky_Game
 
+See app here: https://jaro0024.github.io/Clicky_Game/
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
